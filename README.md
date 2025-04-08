@@ -1,5 +1,3 @@
-# My-First-Repository
-
 May I present my self,
 
 Im a Physics graduate that just diceded to move to the Data Science World. Why? Maybe is just because I found that my mathematical knowledge (especially in statistics) could be applied directly to this field. A part that is a topic that has recently acquire big popularity, I have to recognice that Data Science has gained it by its self: predictions, modeling, AI, and its presence in every single field that one can imagine.
