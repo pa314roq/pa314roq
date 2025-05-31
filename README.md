@@ -1,12 +1,26 @@
-May I present my self,
+<h3> Hello there, I'm Pablo!! 👋 </h3>
 
-Im a Physics graduate that just diceded to move to the Data Science World. Why? Maybe is just because I found that my mathematical knowledge (especially in statistics) could be applied directly to this field. A part that is a topic that has recently acquire big popularity, I have to recognice that Data Science has gained it by its self: predictions, modeling, AI, and its presence in every single field that one can imagine.
+I am a 🌟**physics graduate**🌟 from *Universidad Complutense de Madrid* . Very interested in programming 💻, data science 💾, mathematics 📝... and of course, physics!! :atom: 📚
 
-Data Science mix computational knowladge and techniques to implement models (that are based on statistics) that can be "trained" using the data available of the topic we are interested to study: the objetive of this is to acquire predictions and descriptions of the system. The method followed in this process doesn't need to understand the relationships betwenn the variables that are present in the system (this is the opposite mindset of physics!!), on the contrary, if we handle and guide our model to search for the patterns in the data we can have an impressive result.
+Currently studying a **Master in Data Analysis for Big Data** in *Universidad Carlos III de Madrid*. I am also working on my programming skills and tools on my own, and implement new math algorithms whenever I can. Recently enjoying problem solving as well.
+
+Everything that combines programming, mathematics or physics just freaks me out 🤩. I also have a YT channel with Geometry Dash gameplays, so consider passing by ;).
+
+Greetings, puvvlo.
+
+#### Skills
+
+- Python programming <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="Description" width="2.5%">
+
+  Numpy <img src="https://images.icon-icons.com/3913/PNG/512/numpy_logo_icon_248343.png" alt="Description" width="2.5%">  | 
+  Pandas <img src="https://images.icon-icons.com/3914/PNG/512/pandas_logo_icon_248897.png" alt="Description" width="2.5%"> |
+  Scipy <img src="https://images.icon-icons.com/3914/PNG/512/scipy_logo_icon_248581.png" alt="Description" width="2.5%"> |
+  Matplotlib <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Description" width="2.5%">
+
+- R programming <img src="https://images.icon-icons.com/2699/PNG/512/r_project_official_logo_icon_170811.png" alt="Description" width="2.5%">
+
+- Advanced mathematics
+
+  Statistics | Linear Algebra | Calculus 
 
 
-Right know i don't have a deep understanding in Data Science rather than its applications and study fields. I'm focusing on training my programming skills first and then jump into the mathematics (statistics, inference, regression, machine learning...), and maybe start doing some real-world projects. I let it here fow now but i hope to this will change in a future.
-
-To anyone it may concern (myself),
-
-Pablo :D
