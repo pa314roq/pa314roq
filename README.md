@@ -1,4 +1,4 @@
-<h3> Hello there, I'm Pablo!! 👋 </h3>
+<h2> Hello there, I'm Pablo!! 👋 </h2>
 
 I am a 🌟**physics graduate**🌟 from *Universidad Complutense de Madrid* . Very interested in programming 💻, data science 💾, mathematics 📝... and of course, physics!! :atom: 📚
 
